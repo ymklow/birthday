@@ -1,7 +1,7 @@
 /* ==== Basic Setup & Colors ==== */
 :root {
-    --navy-blue: #0A1931; /* Deep navy for backgrounds/text */
-    --gold: #FFC947;      /* Gold for accents and headlines */
+    --navy-blue: #39465a; /* Deep navy for backgrounds/text */
+    --gold: #fffefc;      /* Gold for accents and headlines */
     --white: #FFFFFF;     /* Crisp white for text and backgrounds */
     --light-gray: #f4f4f4; /* For light backgrounds */
     --main-font: 'Montserrat', sans-serif;
@@ -59,7 +59,7 @@ p {
 }
 
 .hero-text {
-    background-color: rgba(10, 25, 49, 0.6); /* Semi-transparent navy */
+    background-color: rgba(12, 2, 8, 0.6); /* Semi-transparent navy */
     padding: 2rem 3rem;
     border-radius: 10px;
 }
